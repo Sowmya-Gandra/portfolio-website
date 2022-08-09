@@ -1,2 +1,2 @@
-# Sowmya portfolio-website
-## Designed it based on HTML, CSS till now
+### Sowmya portfolio-website
+##### Designed it based on HTML, CSS till now
